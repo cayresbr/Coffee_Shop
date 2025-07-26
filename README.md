@@ -1,6 +1,6 @@
 # ☕ Coffee on Keyboard
 
-![Homepage Screenshot](https://coffeeonkeyboard.netlify.app/)
+![Homepage Screenshot](https://github.com/cayresbr/Coffee_Shop/blob/main/img/screenshot-home.jpg?raw=true)
 
 A Coffee on Keyboard é um projeto visual e conceitual que transmite a essência da produtividade e criatividade no cotidiano de quem vive entre códigos e cafeína. Desenvolvido com foco em design, leveza e responsividade.
 
